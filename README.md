@@ -1,5 +1,4 @@
 # 2048
-# 2048
 
 2048, bir kaydırma bulmaca oyunudur. Oyunun amacı, aynı sayıları birleştirerek 2048 sayısına ulaşmaktır.
 
